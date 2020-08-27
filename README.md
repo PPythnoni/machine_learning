@@ -1,2 +1,2 @@
 # machine_learning
-clustering, regression, feature extraction
+clustering, regression, feature extraction, recommendation
